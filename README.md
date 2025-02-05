@@ -17,7 +17,7 @@ Lien du discord [Vie associative Paris](https://discord.gg/SZuWsKytVe)
 Pour manger, plusieurs solutions s'offre a toi :  
 
 #### Le Crous
-**≈10mins** à pieds.  
+**≈10mins à pieds**.  
 Il se trouve à la fac de Medecine a côté : [Ici](https://maps.app.goo.gl/iK5H8H4jom8jKPUw5?g_st=com.google.maps.preview.copy)  
 3.30 en tant quetudiant / repas ou 1€ pour les Boursiers.  
 Les repas sont vraiment bien, equilibré, très souvent satisfait.  
@@ -26,6 +26,6 @@ Il te faudra Izly pour pouvoir payer.
 [Acceder a son compte Izly.](https://mon-espace.izly.fr)  
 
 #### Lidl
-**≈2mins** à pieds
+**≈2mins à pieds**.  
 Pas cher, ça fait le taff. (Meme si le crous >>>).  
 Tu peux le trouver [Ici](https://maps.app.goo.gl/Yg5hEf5t9aG9AcFr5?g_st=com.google.maps.preview.copy)  
