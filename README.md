@@ -21,7 +21,7 @@ Pour manger, plusieurs solutions s'offre a toi :
 #### Le Crous
 **≈10mins à pieds**.  
 Il se trouve à la fac de Medecine a côté : [Ici](https://maps.app.goo.gl/iK5H8H4jom8jKPUw5?g_st=com.google.maps.preview.copy)  
-3.30 en tant quetudiant / repas ou 1€ pour les Boursiers.  
+3.30€ en tant qu'étudiant par repas ou 1€ pour les Boursiers.  
 Les repas sont vraiment bien, equilibré, très souvent satisfait.  
 Il te faudra Izly pour pouvoir payer.  
 [Créer un compte Izly.](https://www.izly.fr)  
