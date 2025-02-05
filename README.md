@@ -20,3 +20,5 @@ Pour manger, plusieurs solutions s'offre a toi :
 Il te faudra Izly pour pouvoir payer.  
 [Créer un compte Izly.](https://www.izly.fr)  
 [Acceder a son compte Izly.](https://mon-espace.izly.fr)  
+
+**- Lidl** que tu peux trouver [Ici](https://maps.app.goo.gl/Yg5hEf5t9aG9AcFr5?g_st=com.google.maps.preview.copy)  
