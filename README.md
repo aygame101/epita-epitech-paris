@@ -6,8 +6,8 @@ Si tu as des recos n'hésite pas à faire une PR pour ajouter des infos au READM
 ## Epitech
 ### Liens utiles
 [**Gandalf** : Intra avec tout les projets](https://gandalf.epitech.eu/login/index.php)  
-[**Panoramix** : Agenda prez des projets](https://panoramix.epitest.eu/login)
-[**My Epitech** : Suivi des notes via la moulinette](https://my.epitech.eu) 
+[**Panoramix** : Agenda prez des projets](https://panoramix.epitest.eu/login)  
+[**My Epitech** : Suivi des notes via la moulinette](https://my.epitech.eu)  
   
 ## Epita
   
